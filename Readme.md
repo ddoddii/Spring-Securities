@@ -12,3 +12,4 @@
 |4. 권한 부여 구성 - 접근 제한|[권한 부여 구성 - 접근 제한](https://github.com/ddoddii/Spring-Securities/blob/main/4.%EA%B6%8C%ED%95%9C%EB%B6%80%EC%97%AC-%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C.md)|
 |5. 권한 부여 구성 - 제한 적용|[권한 부여 구성 - 제한 적용](https://github.com/ddoddii/Spring-Securities/blob/main/5.%EA%B6%8C%ED%95%9C%EB%B6%80%EC%97%AC-%EC%A0%9C%ED%95%9C%EC%A0%81%EC%9A%A9.md)|
 |6. 필터 구현|[필터 구현](https://github.com/ddoddii/Spring-Securities/blob/main/6.%ED%95%84%ED%84%B0.md)|
+|7. CSRF 보호와 CORS 적용|[CSRF 보호와 CORS 적용](https://github.com/ddoddii/Spring-Securities/blob/main/7.csrf%26cors.md)|
